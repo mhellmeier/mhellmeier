@@ -70,7 +70,15 @@
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33%" valign="top">
+      <a href="https://certificates.future-network-cert.com/e3989a56-e456-4905-933b-dbe5d7505da1#acc.JYRayEx8" target="_blank">
+        <img src="https://templates-eu.images.credential.net/17108026178753384590747810198126.png" width="110" alt="iSAQB Certified Professional for Software Architecture" />
+      </a><br><br>
+      <b>iSAQB® CPSA - Foundation Level</b><br>
+      iSAQB<br>
+      <i>Issued on Feb 24, 2026</i>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://www.credly.com/badges/20c0110a-c65f-47a2-8ea4-fbdbf56b3999" target="_blank">
         <img src="https://images.credly.com/images/574fbfd5-815f-486c-914c-36b490315df7/image.png" width="110" alt="TOGAF® Business Architecture Foundation" />
       </a><br><br>
@@ -78,7 +86,7 @@
       The Open Group<br>
       <i>Issued on Oct 7, 2024</i>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://www.credly.com/badges/f806c4f5-0fae-4e73-8c4a-4e88347310e7" target="_blank">
         <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="110" alt="Professional Scrum Master™ I (PSM I)" />
       </a><br><br>
@@ -86,7 +94,9 @@
       Scrum.org<br>
       <i>Issued on Apr 3, 2024</i>
     </td>
-    <td align="center" width="25%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
       <a href="https://www.credly.com/badges/489225c5-1417-4970-af3d-b98f8450f489" target="_blank">
         <img src="https://images.credly.com/images/03205ada-b7e1-4e5b-bddf-15c5c29f9ddf/image.png" width="110" alt="Eclipse Foundation Committer" />
       </a><br><br>
@@ -94,7 +104,7 @@
       Eclipse Foundation<br>
       <i>Issued on Nov 27, 2023</i>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://www.credly.com/badges/3d24ba03-0af7-4939-bfc4-3972cf0471c8" target="_blank">
         <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="110" alt="Microsoft Certified: Azure Fundamentals" />
       </a><br><br>
@@ -102,6 +112,8 @@
       Microsoft<br>
       <i>Issued on May 15, 2023</i>
     </td>
+    <td align="center" width="33%" valign="top">
+      </td>
   </tr>
 </table>
 
